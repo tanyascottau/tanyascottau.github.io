@@ -36,3 +36,4 @@ sass:
 exclude:
 - "*.gemspec"
 - README.md 
+- CNAME
