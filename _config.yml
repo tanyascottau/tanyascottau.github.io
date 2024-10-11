@@ -1,9 +1,9 @@
 # site settings
-title: Forty
-subtitle: by HTML5 UP
+title: TanyaScott
+subtitle: by TheBigFella
 email:
-description: A responsive site template designed by HTML5 Up<br /> and released under the Creative Commons.
-baseurl: "/forty-jekyll-theme" # the subpath of your site, e.g. /blog
+description: Australian Crime Fiction Author<br>Writer of Wrongs
+baseurl: "/" # the subpath of your site, e.g. /blog
 url: https://tanyascott.au/
 author:
 street_address:
@@ -22,14 +22,10 @@ tiles-count: 6
 # Icons are not shown if value is empty
 # You need to restart jekyll for changes to have an effect
 socials:
-  GitHub:
-  GitLab:
-  Google-Plus: 
   Instagram: https://instagram.com/tanyascottauthor
   LinkedIn: 
   Twitter: 
   Facebook:
-  Slack:
 
 # build settings
 markdown: kramdown
@@ -39,6 +35,4 @@ sass:
 
 exclude:
 - "*.gemspec"
-- LICENSE.md
-- CONTRIBUTING.md
 - README.md 
