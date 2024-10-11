@@ -3,7 +3,7 @@ title: TanyaScott
 subtitle: by TheBigFella
 email:
 description: Australian Crime Fiction Author<br>Writer of Wrongs
-baseurl: "/" # the subpath of your site, e.g. /blog
+baseurl: 
 url: https://tanyascott.au/
 author:
 street_address:
