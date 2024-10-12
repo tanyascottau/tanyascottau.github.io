@@ -41,7 +41,7 @@ nav-menu: true
 				<header class="major">
 					<h3>Australia / New Zealand Publisher</h3>
 				</header>
-				<p><a href="https://www.allenandunwin.com/">Allen&amp;Unwen</a></p>
+				<p><a href="https://www.allenandunwin.com/">Allen&amp;Unwin</a></p>
 				<ul class="actions">
 					<li><a href="mailto:publicity@allenandunwin.com" class="button">Email</a></li>
 				</ul>
