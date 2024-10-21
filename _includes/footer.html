@@ -1,21 +1,19 @@
 <!-- Footer -->
 	<footer id="footer">
 		<div class="inner">
-			<ul class="icons">
+			<ul class="copyright">
+				<li>&copy; {{ site.title }} by {{ site.author }}</li>
+				<li>Design: <a href="https://html5up.net" target="_blank">HTML5 UP</a></li>
 				{% for key_value in site.socials %}
 					{% if key_value[1] %}
-						<li>
+						<li> Follow&nbsp;
 							<a href="{{ key_value[1] }}" class="icon alt fa-{{ key_value[0] | downcase }}" target="_blank" rel="noopener noreferrer" aria-label="{{ key_value[0] }}">
+								<strong>{{ site.title }}{{ site.subtitle }}</strong>
 								<span class="label">{{ key_value[0] }}</span>
 							</a>
 						</li>
 					{% endif %}
 				{% endfor %}
-			</ul>
-			<ul class="copyright">
-				<li>&copy; {{ site.title }} by {{ site.author }}</li>
-				<li>Design: <a href="https://html5up.net" target="_blank">HTML5 UP</a></li>
-
 			</ul>
 		</div>
 	</footer>
