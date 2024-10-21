@@ -32,7 +32,7 @@ nav-menu: true
 	</section>
 	<section>
 		<a href="https://www.instagram.com/tanyascottauthor/" class="image">
-			<img src="{% link assets/images/pic01.jpg %}" alt="" data-position="center center" />
+			<img src="{% link assets/images/pic03.jpg %}" alt="" data-position="center center" />
                 </a>
 	<div class="content">
 		<div class="inner">

@@ -1,11 +1,11 @@
 # site settings
 title: TanyaScott
-subtitle: by TheBigFella
+subtitle: Author
 email:
 description: Australian Crime Fiction Author &bull; Writer of Wrongs
 baseurl: 
 url: https://tanyascott.au/
-author:
+author: TheBigFella
 street_address:
 city:
 state:
