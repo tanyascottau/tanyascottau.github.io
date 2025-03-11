@@ -25,9 +25,9 @@ nav-menu: true
 				<header class="major">
 					<h3>Agent</h3>
 				</header>
-				<p>Tom Gilliatt<br><a href="https://leftbankliterary.com/">Left Bank Literary</a></p>
+				<p>Tom Gilliatt<br><a href="https://www.a4literary.com/">a4 Literary</a></p>
 				<ul class="actions">
-					<li><a href="mailto:tom@leftbankliterary.com" class="button">Email</a></li>
+					<li><a href="mailto:tom@a4literary.com" class="button">Email</a></li>
 				</ul>
 			</div>
 		</div>
@@ -59,7 +59,7 @@ nav-menu: true
 				</header>
 				<p><a href="https://groveatlantic.com/">Grove Atlantic</a></p>
 				<ul class="actions">
-					<li><a href="mailto:dseager@groveatlantic.com" class="button">Email</a></li>
+					<li><a href="mailto:JChoi@groveatlantic.com" class="button">Email</a></li>
 				</ul>
 			</div>
 		</div>
