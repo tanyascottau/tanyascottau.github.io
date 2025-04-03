@@ -55,7 +55,7 @@ nav-menu: true
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>USA / North America Publisher</h3>
+					<h3>USA / Canada Publisher</h3>
 				</header>
 				<p><a href="https://groveatlantic.com/">Grove Atlantic</a></p>
 				<ul class="actions">
