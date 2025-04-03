@@ -7,5 +7,5 @@ nav-menu: true
 ---
 
 <h2 id="stillwater">Stillwater</h2>
-Pre-orders available now, publishing date in Australia and New Zealand: 29 July 2025.
-<p><a href="https://www.allenandunwin.com/browse/book/Tanya-Scott-Stillwater-9781761471391"> https://www.allenandunwin.com/browse/book/Tanya-Scott-Stillwater-9781761471391</a></p>
+Pre-orders available now.  Publication date in Australia and New Zealand: 29 July 2025.
+<p><a href="https://www.allenandunwin.com/browse/book/Tanya-Scott-Stillwater-9781761471391" class="button">Pre-order</a></p>
