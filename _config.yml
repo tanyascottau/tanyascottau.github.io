@@ -1,7 +1,7 @@
 # site settings
 title: TanyaScott
 subtitle: Author
-email:
+email: tanyascottauthor@gmail.com
 description: Australian Crime Fiction Author &bull; Writer of Wrongs
 baseurl: 
 url: https://tanyascott.au/
@@ -22,6 +22,7 @@ tiles-count: 6
 # Icons are not shown if value is empty
 # You need to restart jekyll for changes to have an effect
 socials:
+  Envelope: mailto:tanyascottauthor@gmail.com
   Instagram: https://instagram.com/tanyascottauthor
   LinkedIn: 
   Twitter: 
