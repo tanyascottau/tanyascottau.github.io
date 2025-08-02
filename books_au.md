@@ -39,12 +39,12 @@ nav-menu: true
 		<h2 id="events">Events</h2>
 		<table>
 		  <tr>
-		    <td width="30%">
+		    <td width="40%">
                       <strong>Monday, 11 August 2025</strong>
-                      <br>6:00 pm – 7:00 pm
+                      <br>6:00pm – 7:00pm
                       <br><a href="https://www.trybooking.com/events/landing/1417402" class="button">RSVP</a>
                     </td>
-		    <td width="70%">
+		    <td width="60%">
                       <strong>In conversation with Jane Harper</strong>
                       <br><a href="https://www.google.com/maps/place/Readings+Emporium/@-37.8129199,144.9634254,17z/data=!3m2!4b1!5s0x6ad642ca86d989d7:0x61bc362b979752d0!4m6!3m5!1s0x6ad6433bc618b743:0x4711aba02507a40e!8m2!3d-37.8129199!4d144.9634254!16s%2Fg%2F11rk56yh0p?entry=ttu&g_ep=EgoyMDI1MDczMC4wIKXMDSoASAFQAw%3D%3D">Readings Emporium, 287 Lonsdale St</a>
                       <br>Melbourne, VIC
@@ -53,7 +53,7 @@ nav-menu: true
 		  <tr>
 		    <td>
                       <strong>Tuesday, 12 August 2025</strong>
-                      <br>6:30 pm – 8:00 pm
+                      <br>6:30pm – 8:00pm
                       <br><a href="https://www.trybooking.com/events/landing/1415952" class="button">RSVP</a>
                     </td>
 		    <td>
@@ -65,7 +65,7 @@ nav-menu: true
 		  <tr>
 		    <td>
                       <strong>Tuesday, 19 August 2025</strong>
-                      <br>6:30 pm – 7:30 pm
+                      <br>6:30pm – 7:30pm
                       <br><a href="https://krg-events.bookable.net.au/#!/event-detail/ev_d71419aab3224176bb3665623d66cbcd" class="button">RSVP</a>
                     </td>
 		    <td>
@@ -77,7 +77,7 @@ nav-menu: true
 		  <tr>
 		    <td>
                       <strong>Wednesday, 20 August 2025</strong>
-                      <br>7:00 pm – 8:30 pm
+                      <br>7:00pm – 8:30pm
                       <br><a href="https://events.humanitix.com/tanya-scott-author-event" class="button">RSVP</a>
                     </td>
 		    <td>
@@ -89,7 +89,7 @@ nav-menu: true
 		  <tr>
 		    <td>
                       <strong>Thursday, 21 August 2025</strong>
-                      <br>6:00 pm – 7:00 pm
+                      <br>6:00pm – 7:00pm
                       <br><a href="https://events.humanitix.com/book-launch-stillwater-by-tanya-scott" class="button">RSVP</a>
                     </td>
 		    <td>
@@ -101,7 +101,7 @@ nav-menu: true
 		  <tr>
 		    <td>
                       <strong>Saturday, 23 August 2025</strong>
-                      <br>2:00 pm – 3:30 pm
+                      <br>2:00pm – 3:30pm
                       <br><a href="https://events.humanitix.com/stillwater-book-launch-with-tanya-scott" class="button">RSVP</a>
                     </td>
 		    <td>
