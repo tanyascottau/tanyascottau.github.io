@@ -36,7 +36,7 @@ nav-menu: true
                 </a>
 	<div class="content">
 		<div class="inner">
-			<p>After growing up on the coast in western Victoria, Tanya studied and worked in Melbourne for over a decade, but always knew the beach would claim her back. She is now based on Wadawurrung country, on the Victorian Surf Coast, with her family and pets. When not writing, she can be found with her head in a book or braving the wind at the beach. Her first novel, a suspense thriller titled Stillwater, will be published in 2025.</p>
+			<p>After growing up on the coast in western Victoria, Tanya studied and worked in Melbourne for over a decade, but always knew the beach would claim her back. She is now based on Wadawurrung country, on the Victorian Surf Coast, with her family and pets. When not writing, she can be found with her head in a book or braving the wind at the beach. Stillwater is her first novel.</p>
 		</div>
 	</div>
 	</section>
