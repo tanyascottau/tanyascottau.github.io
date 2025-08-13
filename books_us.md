@@ -1,7 +1,7 @@
 ---
 layout: page
 title: USA / Canada
-description: Pre-order
+description: Order
 image: assets/images/stillwater-us-cover-art.jpg
 nav-menu: true
 ---
@@ -37,8 +37,7 @@ nav-menu: true
 		must resurrect his dormant skills and confront the
 		demons that threaten to consume him.</p>
 		<br>
-		<p>Pre-orders available now.  Publication date in USA and Canada: 12 August 2025.</p>
-		<p><a href="https://groveatlantic.com/book/stillwater/" class="button">Pre-order</a></p>
+		<p><a href="https://groveatlantic.com/book/stillwater/" class="button">Order</a></p>
 
                 <div style="text-align:center">
                 <img src="{% link assets/images/stillwater-us-cover-art.jpg %}" alt="Stillwater cover art, American edition" data-position="center center" width="80%" />     
