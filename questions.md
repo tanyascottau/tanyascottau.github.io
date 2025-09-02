@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Book Club Questions
+image: assets/images/graffiti-mini.jpg
 nav-menu: true
 ---
 
