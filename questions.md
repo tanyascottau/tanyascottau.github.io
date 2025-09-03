@@ -14,7 +14,6 @@ nav-menu: true
 		<header class="major">
 			<h1>Book Club Questions</h1>
 		</header>
-		<p>These questions are intended as a guide only – don’t let me interfere with your robust discussions!</p>
 
 		<h2 id="stillwater">Stillwater</h2>
 
