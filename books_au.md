@@ -41,6 +41,42 @@ nav-menu: true
 		<table>
 		  <tr>
 		    <td>
+                      <strong>Sunday, 19 October 2025</strong>
+                      <br>12:00pm – 5:00pm
+                      <br><a href="https://www.eventbrite.com.au/e/bookwiz-2025-tickets-1568899373259?aff=oddtdtcreator" class="button">RSVP</a>
+                    </td>
+		    <td>
+                      <strong>Warrnambool BOOKwiz! 2025</strong>
+                      <br><a href="https://www.google.com/maps/place/Keayang+Maar+Vineyard/@-38.3145942,142.9029983,17z/data=!3m1!4b1!4m6!3m5!1s0x6ad2bd01b32068eb:0xc5205e8dfd2a225a!8m2!3d-38.3145942!4d142.9055786!16s%2Fg%2F11jy8m_6b1?entry=ttu&g_ep=EgoyMDI1MDgzMC4wIKXMDSoASAFQAw%3D%3D">Keayang Maar Vineyard, 182 Maguires Road</a>
+                      <br>Dixie, VIC
+                    </td>
+		  </tr>
+		  <tr>
+		    <td>
+                      <strong>Wednesday, 17 September 2025</strong>
+                      <br>5:30pm – 6:30pm
+                      <br><a href="https://emergingwritersfestival.org.au/event/finding-your-crew-the-debut-author-experience/" class="button">RSVP</a>
+                    </td>
+		    <td>
+                      <strong>Emerging Writers Festival: Finding Your Crew</strong>
+                      <br><a href="https://www.google.com/maps/place/141+Therry+St,+Melbourne+VIC+3000/@-37.8076184,144.9559297,17z/data=!3m1!4b1!4m6!3m5!1s0x6ad65d34f56a0f33:0xa9ded67179cc8796!8m2!3d-37.8076184!4d144.95851!16s%2Fg%2F11q2nmn7nt?entry=ttu&g_ep=EgoyMDI1MDgzMC4wIKXMDSoASAFQAw%3D%3D">narrm ngarrgu Library and Family Services, Bagungga, 141 Therry St</a>
+                      <br>Melbourne, VIC
+                    </td>
+		  </tr>
+		  <tr>
+		    <td>
+                      <strong>Thursday, 11 September 2025</strong>
+                      <br>12:00pm – 1:00pm
+                      <br><a href="https://www.badsydney.com/program/fresh-blood-2-debut-authors-stunning-debut-crime-novels-that-grapple-with-the-past/" class="button">RSVP</a>
+                    </td>
+		    <td>
+                      <strong>BAD Sydney, Crime Novels That Grapple With The Past</strong>
+                      <br><a href="https://www.google.com/maps/place/Henry+Carmichael+Theatre/@-33.8741577,151.2056199,17z/data=!3m1!4b1!4m6!3m5!1s0x6b12af005b8311cb:0x86663f49a18a86f9!8m2!3d-33.8741577!4d151.2082002!16s%2Fg%2F11xm_4ptn6?entry=ttu&g_ep=EgoyMDI1MDgzMC4wIKXMDSoASAFQAw%3D%3D">Sydney Mechanics' School Of Arts</a>
+                      <br>Sydney, NSW
+                    </td>
+		  </tr>
+		  <tr>
+		    <td>
                       <strong>Tuesday, 9 September 2025</strong>
                       <br>7:00pm – 8:30pm
                       <br><a href="https://www.trybooking.com/events/landing/1446902" class="button">RSVP</a>
