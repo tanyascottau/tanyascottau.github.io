@@ -53,8 +53,8 @@ nav-menu: true
 		  </tr>
 		  <tr>
 		    <td>
-                      <strong>Wednesday, 17 September 2025</strong>
-                      <br>5:30pm – 6:30pm
+                      <del><strong>Wednesday, 17 September 2025</strong>
+                      <br>5:30pm – 6:30pm</del>
                       <br><a href="https://emergingwritersfestival.org.au/event/finding-your-crew-the-debut-author-experience/" class="button">RSVP</a>
                     </td>
 		    <td>
@@ -65,8 +65,8 @@ nav-menu: true
 		  </tr>
 		  <tr>
 		    <td>
-                      <strong>Thursday, 11 September 2025</strong>
-                      <br>12:00pm – 1:00pm
+                      <del><strong>Thursday, 11 September 2025</strong>
+                      <br>12:00pm – 1:00pm</del>
                       <br><a href="https://www.badsydney.com/program/fresh-blood-2-debut-authors-stunning-debut-crime-novels-that-grapple-with-the-past/" class="button">RSVP</a>
                     </td>
 		    <td>
@@ -77,8 +77,8 @@ nav-menu: true
 		  </tr>
 		  <tr>
 		    <td>
-                      <strong>Tuesday, 9 September 2025</strong>
-                      <br>7:00pm – 8:30pm
+                      <del><strong>Tuesday, 9 September 2025</strong>
+                      <br>7:00pm – 8:30pm</del>
                       <br><a href="https://www.trybooking.com/events/landing/1446902" class="button">RSVP</a>
                     </td>
 		    <td>
