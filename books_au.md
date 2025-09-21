@@ -41,6 +41,18 @@ nav-menu: true
 		<table>
 		  <tr>
 		    <td>
+                      <strong>Sunday, 26 October 2025</strong>
+                      <br>1:00pm – 2:00pm
+                      <br><a href="https://www.trybooking.com/events/1449314/sessions/5877555/sections/2783115/tickets" class="button">RSVP</a>
+                    </td>
+		    <td>
+                      <strong>Queenscliffe Literary Festival: Crime Writers on the Surf Coast</strong>
+                      <br><a href="https://www.google.com/maps/place/Queenscliff+Town+Hall/@-38.2676315,144.6562321,17z/data=!3m1!4b1!4m6!3m5!1s0x6ad4370053071a71:0xc63e4ef7a94792d3!8m2!3d-38.2676357!4d144.658807!16s%2Fg%2F11lnv3zq4f?entry=ttu&g_ep=EgoyMDI1MDkxNy4wIKXMDSoASAFQAw%3D%3D">Queenscliff Town Hall, 50 Learmonth Street</a>
+                      <br>Queenscliffe, VIC
+                    </td>
+		  </tr>
+		  <tr>
+		    <td>
                       <strong>Sunday, 19 October 2025</strong>
                       <br>12:00pm – 5:00pm
                       <br><a href="https://www.eventbrite.com.au/e/bookwiz-2025-tickets-1568899373259?aff=oddtdtcreator" class="button">RSVP</a>
