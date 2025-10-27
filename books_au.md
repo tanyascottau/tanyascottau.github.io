@@ -41,8 +41,8 @@ nav-menu: true
 		<table>
 		  <tr>
 		    <td>
-                      <strong>Sunday, 26 October 2025</strong>
-                      <br>1:00pm – 2:00pm
+                      <del><strong>Sunday, 26 October 2025</strong>
+                      <br>1:00pm – 2:00pm</del>
                       <br><a href="https://www.trybooking.com/events/1449314/sessions/5877555/sections/2783115/tickets" class="button">RSVP</a>
                     </td>
 		    <td>
@@ -53,8 +53,8 @@ nav-menu: true
 		  </tr>
 		  <tr>
 		    <td>
-                      <strong>Sunday, 19 October 2025</strong>
-                      <br>12:00pm – 5:00pm
+                      <del><strong>Sunday, 19 October 2025</strong>
+                      <br>12:00pm – 5:00pm</del>
                       <br><a href="https://www.eventbrite.com.au/e/bookwiz-2025-tickets-1568899373259?aff=oddtdtcreator" class="button">RSVP</a>
                     </td>
 		    <td>
