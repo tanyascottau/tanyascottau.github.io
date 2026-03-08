@@ -41,6 +41,30 @@ nav-menu: true
 		<table>
 		  <tr>
 		    <td>
+                      <strong>Thursday, 23 April 2026</strong>
+                      <br>6:00pm – 9:00pm
+                      <br><a href="https://events.humanitix.com/crime-with-wine-vol-3/tickets" class="button">RSVP</a>
+                    </td>
+		    <td>
+                      <strong>Crime with Wine Vol.3: Tanya Scott, Lisa Ellery, Sara Foster and Dawn Farnham</strong>
+                      <br><a href="https://www.google.com/maps/place/The+Red+Room+Leederville/@-31.9370628,115.8415246,17z/data=!3m1!4b1!4m6!3m5!1s0x2a32a5481493ffff:0x1a9e9b09871e1b45!8m2!3d-31.9370628!4d115.8415246!16s%2Fg%2F11vprhlgtx?entry=ttu&g_ep=EgoyM">The Red Room, Leederville</a>
+                      <br>Leaderville, Western Australia
+                    </td>
+		  </tr>
+		  <tr>
+		    <td>
+                      <strong>Saturday, 18 April 2026</strong>
+                      <br>2:00pm – 4:00pm
+                      <br><a href="https://events.humanitix.com/writing-illness-injuries-and-healthcare/tickets" class="button">RSVP</a>
+                    </td>
+		    <td>
+                      <strong>Workshop: Writing Illness, Injuries and Healthcare</strong>
+                      <br><a href="https://www.google.com/maps/place/11+Old+York+Rd,+Greenmount+WA+6056/@-31.8999874,116.0544834,17z/data=!3m1!4b1!4m6!3m5!1s0x2a32c7903432638b:0xde3f0fb6c1d5a43d!8m2!3d-31.8999874!4d116.0544834!16s%2Fg%2F11c4qrhv9_?entry=ttu&g_ep=EgoyMDI2MDMwNC4xIKXMDSoASAFQAw%3D%3D">KSP Writers' Centre, 11 Old York Road</a>
+                      <br>Greenmount, Western Australia
+                    </td>
+		  </tr>
+		  <tr>
+		    <td>
                       <del><strong>Sunday, 26 October 2025</strong>
                       <br>1:00pm – 2:00pm</del>
                       <br><a href="https://www.trybooking.com/events/1449314/sessions/5877555/sections/2783115/tickets" class="button">RSVP</a>
