@@ -1,0 +1,56 @@
+/* Contact */
+
+	.contact-grid {
+		display: grid;
+		grid-template-columns: repeat(2, minmax(0, 1fr));
+		gap: 2rem;
+		margin: 3rem auto 0;
+		max-width: 60rem;
+	}
+
+	.contact-card {
+		background: _palette($p, bg-alt);
+		border-top: 0.35rem solid _palette($p, accent);
+		padding: 1.5rem;
+		text-align: center;
+
+		> img {
+			aspect-ratio: 4 / 3;
+			display: block;
+			height: 10rem;
+			margin: 0 auto 1.5rem;
+			max-width: 305px;
+			object-fit: cover;
+			width: 100%;
+		}
+
+		.contact-region {
+			color: _palette($p, accent);
+			font-family: _font(family-heading);
+			font-size: 0.75rem;
+			letter-spacing: 0.2em;
+			text-transform: uppercase;
+		}
+
+		section {
+			border-top: 1px solid _palette($p, border);
+			margin-top: 1.5rem;
+			padding-top: 1.25rem;
+		}
+
+		h2 { font-size: 1rem; }
+
+		.contact-icon {
+			border-bottom: 0;
+			margin-right: 0.35rem;
+		}
+	}
+
+	@include breakpoint('<=small') {
+		.contact-grid {
+			display: block;
+			margin-top: 2rem;
+		}
+
+		.contact-card + .contact-card { margin-top: 2rem; }
+	}
